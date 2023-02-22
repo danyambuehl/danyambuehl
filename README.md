@@ -24,4 +24,6 @@
 </a> 
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
 </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/8d8f77e7cfa9cc981c4ea4a32839702429a9095f/images/svg/visualstudiocode.svg" alt="VSC" width="40" height="40"/> 
+</a> 
 </p>
