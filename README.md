@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/8d8f77e7cfa9cc981c4ea4a32839702429a9095f/images/svg/amazon.svg" alt="aws" width="40" height="40"/> 
 </a> 
+<a href="https://portal.azure.com" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/8d8f77e7cfa9cc981c4ea4a32839702429a9095f/images/svg/microsoft.svg" alt="MS" width="40" height="40"/> 
+</a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
