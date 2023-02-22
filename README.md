@@ -26,6 +26,6 @@
 </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/8d8f77e7cfa9cc981c4ea4a32839702429a9095f/images/svg/visualstudiocode.svg" alt="VSC" width="40" height="40"/> 
 </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://camo.githubusercontent.com/ec327d2d01ade7c9986c28f1bb1c76681e65cc16e5fdfd24ac3aaf0b6a68d700/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a736f6e2f6a736f6e2d617232312e737667" alt="VSC" width="40" height="40"/> 
+<a href="https://en.wikipedia.org/wiki/JSON" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/8d8f77e7cfa9cc981c4ea4a32839702429a9095f/images/svg/json.svg" alt="JSON" width="40" height="40"/> 
 </a> 
 </p>
