@@ -4,3 +4,9 @@
 </p>
 
 <p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=DevOps+%40+Swisscom;Always+learning+new+things;making+my+mind+my+best+friend;Sphinx+of+black+quartz%2C+judge+my+vow;Let+me+know+when+you+smell+any+deadlines+i+haven't+been+told+about.)](https://git.io/typing-svg)
+  
+  
+  
+  
